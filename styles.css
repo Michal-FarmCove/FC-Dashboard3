@@ -1264,7 +1264,7 @@ table thead th, table tbody td {
 
 
 .amount-input {
-    width: 70%; /* Let the input fill the cell width */
+    width: 80%; /* Let the input fill the cell width */
     box-sizing: border-box; /* Ensures padding is included in width */
     text-align: center;
 } 
