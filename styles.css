@@ -1248,11 +1248,11 @@ table thead th, table tbody td {
 
 /* Define specific widths for date and amount cells */
 .amount-cell {
-    width: 120px; /* Adjust as desired */
+    width: 100px; /* Adjust as desired */
 }
 
 .date-cell {
-    width: 130px; /* Adjust as desired */
+    width: 100px; /* Adjust as desired */
 }
 
 /* Optional: Style the inputs */
