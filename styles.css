@@ -1257,14 +1257,14 @@ table thead th, table tbody td {
 
 /* Optional: Style the inputs */
 .date-input{
-    width: 40%; /* Let the input fill the cell width */
+    width: 55%; /* Let the input fill the cell width */
     box-sizing: border-box; /* Ensures padding is included in width */
     text-align: center;
 } 
 
 
 .amount-input {
-    width: 50%; /* Let the input fill the cell width */
+    width: 70%; /* Let the input fill the cell width */
     box-sizing: border-box; /* Ensures padding is included in width */
     text-align: center;
 } 
