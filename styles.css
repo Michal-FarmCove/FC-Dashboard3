@@ -1252,12 +1252,12 @@ table thead th, table tbody td {
 }
 
 .date-cell {
-    width: 100px; /* Adjust as desired */
+    width: 90px; /* Adjust as desired */
 }
 
 /* Optional: Style the inputs */
 .date-input{
-    width: 100%; /* Let the input fill the cell width */
+    width: 70%; /* Let the input fill the cell width */
     box-sizing: border-box; /* Ensures padding is included in width */
     text-align: center;
 } 
